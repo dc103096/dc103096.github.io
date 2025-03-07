@@ -122,13 +122,13 @@ dibu {
 
 /*全局字体*/
 * {
-  font-family: LXGW WenKai;
+  font-family: Noto Sans JP;
 }
 * {
   font-weight: bold;
 }
 body {
-  font-family: LXGW WenKai;
+  font-family: Noto Sans JP;
 }
 /*以下为评论系统专用*/
 /*适配大小契合度*/
