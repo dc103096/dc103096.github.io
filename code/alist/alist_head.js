@@ -2,7 +2,7 @@ document.writeln("<!--Alist V3建议添加的，已经默认添加了，如果�
 document.writeln("<script src=\"https://polyfill.alicdn.com/v3/polyfill.min.js?features=String.prototype.replaceAll\"></script>");
 document.writeln("");
 document.writeln("<!--引入字体，全局字体使用-->");
-document.writeln("<link rel=\"stylesheet\" href=\"./alist_font.css\" />");
+document.writeln("<!--link rel=\"stylesheet\" href=\"./alist_font.css\" /-->");
 document.writeln("");
 document.writeln("<!--评论系统使用的js-->");
 document.writeln("<script src=\"https://unpkg.com/valine/dist/Valine.min.js\"></script>");
