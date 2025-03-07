@@ -207,7 +207,7 @@ document.writeln("}");
 document.writeln("/*主列表白天模式透明*/");
 document.writeln(".obj-box.hope-stack.hope-c-dhzjXW.hope-c-PJLV.hope-c-PJLV-igScBhH-css {");
 document.writeln("backdrop-filter: blur(10px)!important;");
-document.writeln("background-color: rgba(255, 255, 255, 0.1) !important;");
+document.writeln("background-color: rgba(0, 0, 0, 0.5) !important;");
 document.writeln("}");
 document.writeln("/*主列表夜间模式透明*/");
 document.writeln(".obj-box.hope-stack.hope-c-dhzjXW.hope-c-PJLV.hope-c-PJLV-iigjoxS-css {");
