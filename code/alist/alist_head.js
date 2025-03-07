@@ -2,7 +2,7 @@ document.writeln("<!--Alist V3建议添加的，已经默认添加了，如果�
 document.writeln("<script src=\"https://polyfill.alicdn.com/v3/polyfill.min.js?features=String.prototype.replaceAll\"></script>");
 document.writeln("");
 document.writeln("<!--引入字体，全局字体使用-->");
-document.writeln("<link rel=\"stylesheet\" href=\"https://gist.githubusercontent.com/k4zuki02h4t4/aea11b3c25703f60083f728fb1583202/raw/42aec918b2870a0450b7bae897b9c1a588e5c147/font-family.css\" />");
+document.writeln("<link rel=\"stylesheet\" href=\"./alist_font.css\" />");
 document.writeln("");
 document.writeln("<!--评论系统使用的js-->");
 document.writeln("<script src=\"https://unpkg.com/valine/dist/Valine.min.js\"></script>");
@@ -20,7 +20,3 @@ document.writeln("<link rel=\"stylesheet\" href=\"https://npm.elemecdn.com/aplay
 document.writeln("<script src=\"https://npm.elemecdn.com/aplayer@1.10.1/dist/APlayer.min.js\"></script>");
 document.writeln("<!-- require MetingJS -->");
 document.writeln("<script src=\"https://npm.elemecdn.com/meting2@0.0.1/js/Meting.min.js\"></script>");
-document.writeln("");
-document.writeln("<style>");
-document.writeln("");
-document.writeln("</style>");
