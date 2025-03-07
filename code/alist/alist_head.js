@@ -2,7 +2,7 @@ document.writeln("<!--Alist V3建议添加的，已经默认添加了，如果�
 document.writeln("<script src=\"https://polyfill.alicdn.com/v3/polyfill.min.js?features=String.prototype.replaceAll\"></script>");
 document.writeln("");
 document.writeln("<!--引入字体，全局字体使用-->");
-document.writeln("<link rel=\"stylesheet\" href=\"https://npm.elemecdn.com/lxgw-wenkai-webfont@1.1.0/lxgwwenkai-regular.css\" />");
+document.writeln("<link rel=\"stylesheet\" href=\"https://gist.githubusercontent.com/k4zuki02h4t4/aea11b3c25703f60083f728fb1583202/raw/42aec918b2870a0450b7bae897b9c1a588e5c147/font-family.css\" />");
 document.writeln("");
 document.writeln("<!--评论系统使用的js-->");
 document.writeln("<script src=\"https://unpkg.com/valine/dist/Valine.min.js\"></script>");
