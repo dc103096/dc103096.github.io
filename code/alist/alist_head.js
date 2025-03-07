@@ -207,7 +207,7 @@ document.writeln("}");
 document.writeln("/*主列表白天模式透明*/");
 document.writeln(".obj-box.hope-stack.hope-c-dhzjXW.hope-c-PJLV.hope-c-PJLV-igScBhH-css {");
 document.writeln("backdrop-filter: blur(10px)!important;");
-document.writeln("background-color: rgba(255, 255, 255, 0.5) !important;");
+document.writeln("background-color: rgba(255, 255, 255, 0.1) !important;");
 document.writeln("}");
 document.writeln("/*主列表夜间模式透明*/");
 document.writeln(".obj-box.hope-stack.hope-c-dhzjXW.hope-c-PJLV.hope-c-PJLV-iigjoxS-css {");
@@ -248,8 +248,3 @@ document.writeln("<link rel=\"stylesheet\" href=\"https://npm.elemecdn.com/aplay
 document.writeln("<script src=\"https://npm.elemecdn.com/aplayer@1.10.1/dist/APlayer.min.js\"></script>");
 document.writeln("<!-- require MetingJS -->");
 document.writeln("<script src=\"https://npm.elemecdn.com/meting2@0.0.1/js/Meting.min.js\"></script>");
-document.writeln("<script>");
-document.writeln("setTimeout(() => {");
-document.writeln("document.querySelector(\'.obj-box.hope-stack.hope-c-dhzjXW.hope-c-PJLV.hope-c-PJLV-igScBhH-css\').style.backdropFilter = \'blur(10px)\';");
-document.writeln("}, 100);");
-document.writeln("</script>");
