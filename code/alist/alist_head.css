@@ -98,7 +98,6 @@
 }
 /*顶部*/
 #root > .header {
-  backdrop-filter: blur(10px)!important;
   background: rgba(255, 255, 255, 0);
 }
 /*导航条*/
