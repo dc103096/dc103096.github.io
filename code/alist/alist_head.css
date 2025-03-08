@@ -55,13 +55,16 @@
 }
 /*顶部右上角切换按钮透明*/
 .hope-ui-light .hope-c-ivMHWx-hZistB-cv.hope-icon-button {
+  backdrop-filter: blur(10px)!important;
   background-color: rgba(255, 255, 255, 0.5) !important;
 }
 .hope-ui-dark .hope-c-ivMHWx-hZistB-cv.hope-icon-button {
+  backdrop-filter: blur(10px)!important;
   background-color: rgb(0 0 0 / 50%) !important;
 }
 /*右下角侧边栏按钮透明 第一个是白天 第二个是夜间*/
 .hope-ui-light .hope-c-PJLV-ijgzmFG-css {
+  backdrop-filter: blur(10px)!important;
   background-color: rgba(255, 255, 255, 0.5) !important;
 }
 .hope-ui-dark .hope-c-PJLV-ijgzmFG-css {
@@ -78,10 +81,12 @@
 /*左侧侧边栏目录*/
 /*白天模式*/
 .hope-ui-light .hope-c-PJLV-ieGWMbI-css {
+  backdrop-filter: blur(10px)!important;
   background: rgba(255, 255, 255, 0.5) !important;
 }
 /*夜间模式*/
 .hope-ui-dark .hope-c-PJLV-ieGWMbI-css {
+  backdrop-filter: blur(10px)!important;
   background-color: rgb(0 0 0 / 50%) !important;
 }
 /* 返回顶部 */
@@ -93,16 +98,19 @@
 }
 /*顶部*/
 #root > .header {
+  backdrop-filter: blur(10px)!important;
   background: rgba(255, 255, 255, 0);
 }
 /*导航条*/
 /*白天模式*/
 .hope-ui-light .body > .nav {
+  backdrop-filter: blur(10px)!important;
   background-color: rgba(255, 255, 255, 0.5);
   border-radius: var(--hope-radii-xl);
 }
 /*夜间模式*/
 .hope-ui-dark .body > .nav {
+  backdrop-filter: blur(10px)!important;
   background-color: rgb(0 0 0 / 50%);
   border-radius: var(--hope-radii-xl);
 }
@@ -194,8 +202,8 @@ textarea#comment-textarea:focus {
 }
 /*主列表白天模式透明*/
 .obj-box.hope-stack.hope-c-dhzjXW.hope-c-PJLV.hope-c-PJLV-igScBhH-css {
-  backdrop-filter: blur(10px)!important;
   background-color: rgba(255, 255, 255, 0.5) !important;
+  backdrop-filter: blur(10px)!important;
 }
 /*主列表夜间模式透明*/
 .obj-box.hope-stack.hope-c-dhzjXW.hope-c-PJLV.hope-c-PJLV-iigjoxS-css {
